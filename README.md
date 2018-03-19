@@ -1,4 +1,4 @@
-# hello-world
+# Leia-Me - Repositório da Visão do VSSS da equipe Rinobot - UFJF
 Repositorio Inicial destinado aos assuntos relativos à Visão do VSSS da equipe Rinobot
 Ideias Iniciais:
   1. Essa é a conta oficial do segmento da Visão. Essa conta é colaborador da conta oficial da Rinobot, onde ficará hospedado todo o sistema.
